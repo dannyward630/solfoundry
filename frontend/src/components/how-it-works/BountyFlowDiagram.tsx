@@ -154,7 +154,7 @@ export function BountyFlowDiagram() {
 
       <div className="rounded-xl border border-border bg-forge-950/70 p-3 sm:p-4">
         <svg
-          role="img"
+          role="group"
           aria-label="Interactive bounty lifecycle diagram"
           viewBox="0 0 890 220"
           className="h-auto min-h-[190px] w-full"
